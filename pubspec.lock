@@ -211,7 +211,3 @@ packages:
 sdks:
   dart: ">=3.13.1 <4.0.0"
   flutter: ">=3.18.0-18.0.pre.54"
-flutter:
-  uses-material-design: true
-  assets:
-    -assets/images/
