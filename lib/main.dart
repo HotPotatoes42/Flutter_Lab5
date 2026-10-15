@@ -30,7 +30,7 @@ class ShoppingListItem extends StatelessWidget {
 
     return inCart //
         ? const Color.fromARGB(137, 13, 255, 0)
-        : Theme.of(context).primaryColor;
+        : const Color.fromARGB(255, 88, 143, 253);
   }
 
   TextStyle? _getTextStyle(BuildContext context) {
